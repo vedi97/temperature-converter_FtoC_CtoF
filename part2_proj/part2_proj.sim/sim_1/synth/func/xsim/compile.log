@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/Vedi/school/ECE 524L/Lab2/fa22-e524-lab2-vedi97/hardware/part2/part2_proj/part2_proj.sim/sim_1/synth/func/xsim/temp_convert_tb_func_synth.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'temp_convert'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/Vedi/school/ECE 524L/Lab2/fa22-e524-lab2-vedi97/hardware/part2/sim/temp_convert_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'temp_convert_tb'
